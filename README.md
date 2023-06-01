@@ -18,8 +18,8 @@ Working with EEG (electroencephalography) data is hard, and this little library 
 
 ## Getting Started
 
-1. Download or clone the repo: `git clone https://github.com/curiositry/EEGrunt`
-2. Run `sudo bash install_linux_dependencies.sh` (tell me if this doesn’t work)
+1. 下载仓库代码 `https://github.com/pjki100/EEGrunt.git` 
+2. 依次安装  `miniconda` `创建python2.7环境`      ` sudo bash install_linux_dependencies.sh` (tell me if this doesn’t work)
 3. Take a look in `analyze_data.py` and edit at will, or create your own script using `EEGrunt.py`. **Make sure to set the required variables — device, path, and filename.**
 4. Run it: `python analyze_data.py`
 5. [Read the announcement post for the official tutorial!][1]

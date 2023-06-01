@@ -3,3 +3,5 @@ data/*
 plots/*
 *.pyc
 *.py~
+.idea/*
+venv/*
